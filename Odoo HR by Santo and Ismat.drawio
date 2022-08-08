@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-08T04:32:18.560Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="bFOmHIxxOP9Sln8kSzd_" version="20.2.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-08-08T04:37:10.711Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="G8Mt9jyw0DJcS3Sw2KSn" version="20.2.3" type="github" pages="3">
   <diagram id="EL8qpW15Dw0ddXcv29WO" name="Employee Management">
     <mxGraphModel dx="2036" dy="584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -84,7 +84,7 @@
       <root>
         <mxCell id="WSE-kBfHJZbwwqXnmW-S-0" />
         <mxCell id="WSE-kBfHJZbwwqXnmW-S-1" parent="WSE-kBfHJZbwwqXnmW-S-0" />
-        <mxCell id="WSE-kBfHJZbwwqXnmW-S-2" value="Payroll Management" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;" parent="WSE-kBfHJZbwwqXnmW-S-1" vertex="1">
+        <mxCell id="WSE-kBfHJZbwwqXnmW-S-2" value="Payroll Management" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" parent="WSE-kBfHJZbwwqXnmW-S-1" vertex="1">
           <mxGeometry x="-80" y="10" width="640" height="400" as="geometry" />
         </mxCell>
         <mxCell id="WSE-kBfHJZbwwqXnmW-S-3" value="HR User" style="swimlane;startSize=20;horizontal=0;shadow=0;sketch=0;strokeColor=#d6b656;fillColor=#fff2cc;swimlaneLine=1;labelBackgroundColor=none;labelBorderColor=none;whiteSpace=wrap;fontFamily=Times New Roman;fontStyle=1;gradientColor=#ffd966;" parent="WSE-kBfHJZbwwqXnmW-S-2" vertex="1">
@@ -99,7 +99,7 @@
         <mxCell id="WSE-kBfHJZbwwqXnmW-S-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;shadow=0;sketch=0;strokeColor=#d6b656;fillColor=#fff2cc;swimlaneLine=1;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Times New Roman;fontStyle=1;gradientColor=#ffd966;" parent="WSE-kBfHJZbwwqXnmW-S-3" source="WSE-kBfHJZbwwqXnmW-S-10" target="WSE-kBfHJZbwwqXnmW-S-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WSE-kBfHJZbwwqXnmW-S-10" value="Employee Attendances&#xa;&amp;nbsp;Calculation" style="rounded=0;shadow=0;sketch=0;strokeColor=#d6b656;fillColor=#fff2cc;swimlaneLine=1;labelBackgroundColor=none;labelBorderColor=none;whiteSpace=wrap;fontFamily=Times New Roman;fontStyle=1;gradientColor=#ffd966;" parent="WSE-kBfHJZbwwqXnmW-S-3" vertex="1">
+        <mxCell id="WSE-kBfHJZbwwqXnmW-S-10" value="Employee Attendances&#xa;;Calculation" style="rounded=0;shadow=0;sketch=0;strokeColor=#d6b656;fillColor=#fff2cc;swimlaneLine=1;labelBackgroundColor=none;labelBorderColor=none;whiteSpace=wrap;fontFamily=Times New Roman;fontStyle=1;gradientColor=#ffd966;" parent="WSE-kBfHJZbwwqXnmW-S-3" vertex="1">
           <mxGeometry x="330" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WSE-kBfHJZbwwqXnmW-S-12" value="Total Worked Days Calculation" style="rounded=0;shadow=0;sketch=0;strokeColor=#d6b656;fillColor=#fff2cc;swimlaneLine=1;labelBackgroundColor=none;labelBorderColor=none;whiteSpace=wrap;fontFamily=Times New Roman;fontStyle=1;gradientColor=#ffd966;" parent="WSE-kBfHJZbwwqXnmW-S-3" vertex="1">
