@@ -1,1 +1,314 @@
-<mxfile host="app.diagrams.net" modified="2022-07-26T03:56:52.445Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="-FJVoQQhD3jmo8QW8P4f" version="20.2.0" type="github" pages="3"><diagram id="EL8qpW15Dw0ddXcv29WO" name="Employee Management">5ZpdU6MwFIZ/TS91CvTzUtu6zqzOqJ2d1csMnEJcIGxIbfHXb1KSAg1Q/CqMe6Pm9BDCc15eToo9axZsf1AUebfEAb9n9p1tz5r3TNOYDKb8l4gkacSaDtKAS7Ejk7LAEr+CDPZldI0diAuJjBCf4agYtEkYgs0KMUQp2RTTVsQvnjVCLmiBpY18PfobO8xLoxNznMWvAbueOrMxkhccIJUsryT2kEM2uZC16FkzSghL/wq2M/AFPMUlPe6q4tP9wiiErMkBr/fzR/fqIhw9//x7nyxWy6fn4EzO8oL8tbzgRRD5JAHg0VsU8ssLxPzpFbBEYYk3OPBRyEeXtod95wYlZC2WETNk/1GjSwoxr+idWqNxELpFQid9HvUIxa8kZMiXaXweyqQczGLGUpxCHieXD5TBtpKLsafNZQokAEYTniIPOJvIAiVF5W2yco9Vipcr9aAvg0hKzN1PnVWB/yEL8YaimFpRrh/4+FcMtK4QNcjeQqtaJzpCicxsiMwcfRWyoYYsFS+PzYFfHRMqjntioVf855JbBSahRpOSdeiAI3FtPMxgGSFbfLrh/iaYskBJ9P00zVpBWkf1aJglcL+M7aiObYzdEAmWcTdhGsfv7tPSHFfTfACbrjFLDbd/R4kNcUexHmp00DZWY6px1ciBwx/tckgo84hLQuQvsuhlkW2Wc0NIJIk+A2OJdFm0ZqSMtzjRO2jzxZI1taEmb5Lmcad3oW6+aXn1KPj8Zn0pLu7TazHRSjGjgJiQeK674PpeYU69k/rWbKN1gSs9f3OBTxsK3OiX1+80CtfNpkzhM957UWSzrnp450zctP4Ljase5LjIK9ru04hcLbOsVcmp/IIxCB0U8malmzofdM7LDX3bXUb2BtBLV6GOOmceunfsds0p2K5unCc6tdKd8x7l52tR55aT4BL8drfKVv0jrChCq20Nmrpl8iZghWmAUojt9wRHgHaOqL5f3tmiePBEESU83k2ShwbZPkn9oaOR63BzJfM+bQNhtrqBMPU98ncshmp0jldj3GY1jCZ769C5EO+T+Mj2URxju4iyWIsGYCs6g5w/DEvsQcUag5FnuCN4962iajysA5tJSymzMpzagdZhI5KWVjtwV4f9ZX2gNPo3+8Uddu7h+uWPgfoXSUb/wPFLXouceJ+hf3XfUZdpbChWQ0NJddOaoehdywcNhZOiyaMYnA/V8Elm7gbzbT5znrzRiBognbRiWOrmGlXcXI0NTE00nJ4P66d6t6XxYfY+P03P/ivCWvwD</diagram><diagram name="Payroll" id="ZAaF583kzP5An1DdNB2k">5Vpbc6IwFP41zuw+uMPNSx/Vur1MO+ssu2vbtxRSYAXChiDSX7+JBBFCsbZacPqi5Hhy4Tsf3zkJdtSJt7rAILBvkQndjiKZq4563lEUeaid0S9mSVKLeqalBgs7JnfKDbrzDLlR4tbIMWFYcCQIucQJikYD+T40SMEGMEZx0e0JucVZA2BBwaAbwBWtc8ckdmodKoPcfgkdy85mlvv8hj2QOfM7CW1gonjLpE476gQjRNIrbzWBLgMvw2WuT7uL8dPl9cNjHP+78715V++mg33fp8vmFjD0yWGHVtKhl8CNOF4zkGC07ngLfAqOx+ZM758kGahh7Hgu8GlrbNiOa96ABEVsaSEBxiJrjTEMKR9m2brlkukWMJZJ1Goj7DwjnwCXu9FxMOFkUooeOpuC9+Orh5jAVSncO7CSNwGkzIfIgwQntB8fpTvkMU+KZI5zBvU1brO32KNJ3Ag4a63N0Hlk6AUPzh6BUoVAXf6k7d8hxHXRqcHx3RAq1RByyJRXQqb0jwXZQIBMQAqaVCt4E2FiIwv5wJ3m1jFGkW9Ck4OV+9wgFHCu/oWEJBxjEBHEUCZexuR0TjbRfujygIcowgas8RtyTQXYgrWEl6rDhaELiLMsru7gsRgKsZh6gYsSCKn1BoIlTRGKNAGuEbHlIF8IVTEQse0QqAdgDU1MM1cV6G8htVqrC3JZFzSR5bJSwfKjkfzsU5A809/dLH9BlD6G5dkyq2k+IgT6JvANxvW+yxLkIxXvvkXWCPaBx1jsP4bsq/WPgqq27VGQxWLmF2KJTpHmCC8oYIp0DpKTEBqtSaExLONe+TH483AP9Aft8moR/7iuqBRPXGgq77JCZyr9XigfDy4zdYvcCkVaqlNbJjdhO2ld0gy1aVLLdXo9oWUyBgZpKZblWqRxMPufQiHUVypEr0mFEHeLW8Ig6cAF68XoBEcGiTBsJ8PLJUbjDNc+BcOzU7pdDH8heB/D8N5O5XYeI1bfMcJviuv0k9WB0KTMT39uI/XL9d9HUr+6uBa5PzIMChVxfKvT6oOooYhd5UnUBtDDgyey9QL6EAPC2JqfuH658k1n6ZjRetPC5lSkMSCG/bUplqZhP516TmRpju4MOxVH2S0Bsm1IDprIbBRCnNyx/t96WfOeD7dunK8KraQgHftnxCx97zx+UsSUWPOgvyMn8q4ztKZqxo6eVmSHEPZ0YbxXHvkRxiDZcguYQ7jHPL3SK6WS/1mtO71IF5CzcAPJ24kpniQX8lC6E24sFe33Wkl77Xulg6SmasUUt8CjIMBoWchMR9fMl0N9OrnntE/I5NdqYU/UwhpmNbU/kNUTB/84mFbreCbcm2epd5z8Ipfm0Qb1+aXsr74vwdBm/m+N1D3/z4s6/Q8=</diagram><diagram id="PCCRZ0u2QhnrHaYBfYi4" name="Recruitment">5Vtbc6M2FP41ftwOIOPLo+M43bbOJl3PTqZPOwooRllAVIg47K+vZCRjLGzIJrawO5MLHIQQ3/l0bhI9MI1ef6cwCW6Jj8KeY/mvPXDdcxzbcpye+LH8vJCAcb8QLCn2ZaNSsMA/kbpTSjPso7TSkBESMpxUhR6JY+SxigxSSlbVZk8krD41gUukCRYeDHXpA/ZZUEhHrlXKPyO8DNSTbUteiaBqLAVpAH2y2hKBWQ9MKSGsOIpepygU4Clcivtu9lzdDIyimLW5wc0Wk/5oal/lDzgfPNwk329ePsleXmCYyRf+ijyaYRaJXotxs1yBka5wFMKYn115AQ79OcxJJh6eMuj9UGdXFKVcj/dqZPaO6BYKdlhcGhCKf5KYwVA24/1QJkngVFssxCPkfXLQiDL0uhcNe4MxJyciEWI0503kDUoreZVuq1LHw7GUBVv6dZUQSl4tNz2X0PMDif4bNOFomvj8lZ9/SxHl/+xDujiA2lsA208QHcW8imITbA74ANjS58mXv37k/w7nS/R9Yv+d4E95DWy3MBZz2rH+JI/87z1JMcMkTjUEKcliH/kSolWAGVok0BNXV9yYCRxZpJj56wg6B3nYr/KwBlDbqQF0cCw81UTYAlQDDvncRMpTQllAliSG4ayUXlWhLdvMCUkkoM+IsVySFmaM1MEtHvQLYPPBkox66MBrDqUrgXSJ2IF243rlURRChl+qg/twXQz3c7tipa1FRl9Q3k2CA3fH0gLTFB9rsC68APlZKICF/PcWIYbjZUcthmN1DVB7VBNFPItojM+wQKA6SZIQe1DYYQ3UBhirmB8LVNfuGqiOboi/JT5kaAPqnCy7CeZg0Dkw9Tj3Er2amoiNbm0rATmuX6t9HaAp44+YIfqC0UoEu50MdN2Wka49PJqV1UPdKYn9bG1mNwAac1rgoEnYCXNt17TLGux3WVMY+7iwtGas62Eowa51NY5lX8NygUKOJYdCzNIbnZIBiR6ztJmOp0F0k51KRHVARzV4jo6Gp3vWzgq0dVZOS2dV8MtUEmbrWdiXu4vUR7+tPgYm9aEmg2Ztzs9yj0xbbkePxP7XzHb25DWtmb2+dUIpzLcaJATHLN3q+V4IttzPcMehSwdQarbosdTzZmjvUL3utP+ZLWq1P4ePKKxqDIZ4GfNjD4m4kwvEZOEJfjiRFyLs+wU5ROEfPq77E/SQYPDO3auee31otsklHXlzb1Mb3ebFAVrvnYbWb9ZQEV1CrjKstym61KRqQp6eUsS0efk2fdVyXVfXenmgKAh2NGnqt10eOF7S5Oix1CRJKHkpyyjGncae8GaP0zC+QuDoAdHd0xP21iUpbufX61XcxJ8dspulW3PQ6oXUc/LH/Zb+WE3KZn88fKc/fpc2wIH1l1mUhCRHsrZNIU5hqJdeOkFzt3M0t8877FRr8U00H7dkuf3eqPN9ytCXwy5RGarg16yNkUltOHpd8hK1od6q2QO4JrVxNspoiztoCbtR1HXvsLOlZ2s1+RTLHQ0byXZ2ktUsFJ3Wu+qZ4pmTtq2t2JP1n4a0ZxO5t0W9bYxuNESvze63bIN1TbxMbpKaMAa9QJyYNxpgaM5o1DpuHcjt3ac6lz++vvSm7bqDmhymfuPp0VbpHD1unpJYvKQqf5Q5opm0cI8TV710ra4EDvj9OYLrip14gmPdIxrhNF1vJpOiO3HoZ0y84DViEJvLxg/D3r2iE9CJ/BUxTFHnKaxhOTaO5dnsnm4dfLXdKe0Y3SoNLi7qBXZL4IHRuFcNs6FIejqb3BB4jXYCCfNuz7k05qrIqJm5e3R1IuZeXMoG2uZswOy6ip5sKJMxgJGwAPFjmqyh2TYhs9cExSkyb0PcHRsyNB/CXV6hsm2lEhgtVfZ173eNoMcfXHyoUdJ3l9ld47Dx0Ll/cX4QtPWD/SP5QX5afl5ebEQqP9IHs/8A</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-08-08T04:32:18.560Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="bFOmHIxxOP9Sln8kSzd_" version="20.2.3" type="github" pages="3">
+  <diagram id="EL8qpW15Dw0ddXcv29WO" name="Employee Management">
+    <mxGraphModel dx="2036" dy="584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zQDXgFAn6jKqQyEfSYjm-1" value="Employee Management" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;" parent="1" vertex="1">
+          <mxGeometry x="-80" y="10" width="780" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="zQDXgFAn6jKqQyEfSYjm-2" value="HR User" style="swimlane;startSize=20;horizontal=0;" parent="zQDXgFAn6jKqQyEfSYjm-1" vertex="1">
+          <mxGeometry y="20" width="780" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="zQDXgFAn6jKqQyEfSYjm-5" value="Manage Departments / Section" style="rounded=0;whiteSpace=wrap;html=1;" parent="zQDXgFAn6jKqQyEfSYjm-2" vertex="1">
+          <mxGeometry x="30" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zQDXgFAn6jKqQyEfSYjm-6" value="Manage Designations" style="rounded=0;whiteSpace=wrap;html=1;" parent="zQDXgFAn6jKqQyEfSYjm-2" vertex="1">
+          <mxGeometry x="180" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zQDXgFAn6jKqQyEfSYjm-7" value="Manage Recruitment Process" style="rounded=0;whiteSpace=wrap;html=1;" parent="zQDXgFAn6jKqQyEfSYjm-2" vertex="1">
+          <mxGeometry x="30" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zQDXgFAn6jKqQyEfSYjm-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="zQDXgFAn6jKqQyEfSYjm-2" source="zQDXgFAn6jKqQyEfSYjm-8" target="zQDXgFAn6jKqQyEfSYjm-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zQDXgFAn6jKqQyEfSYjm-8" value="Create Employee Profile" style="rounded=0;whiteSpace=wrap;html=1;" parent="zQDXgFAn6jKqQyEfSYjm-2" vertex="1">
+          <mxGeometry x="180" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zQDXgFAn6jKqQyEfSYjm-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="zQDXgFAn6jKqQyEfSYjm-2" source="zQDXgFAn6jKqQyEfSYjm-9" target="zQDXgFAn6jKqQyEfSYjm-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zQDXgFAn6jKqQyEfSYjm-9" value="Create Employee Contracts" style="rounded=0;whiteSpace=wrap;html=1;" parent="zQDXgFAn6jKqQyEfSYjm-2" vertex="1">
+          <mxGeometry x="330" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zQDXgFAn6jKqQyEfSYjm-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="zQDXgFAn6jKqQyEfSYjm-2" source="zQDXgFAn6jKqQyEfSYjm-10" target="zQDXgFAn6jKqQyEfSYjm-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zQDXgFAn6jKqQyEfSYjm-10" value="Manage Employee Attendances" style="rounded=0;whiteSpace=wrap;html=1;" parent="zQDXgFAn6jKqQyEfSYjm-2" vertex="1">
+          <mxGeometry x="480" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zQDXgFAn6jKqQyEfSYjm-11" value="Manage Employee Leaves" style="rounded=0;whiteSpace=wrap;html=1;" parent="zQDXgFAn6jKqQyEfSYjm-2" vertex="1">
+          <mxGeometry x="630" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zQDXgFAn6jKqQyEfSYjm-3" value="HR Manager" style="swimlane;startSize=20;horizontal=0;" parent="zQDXgFAn6jKqQyEfSYjm-1" vertex="1">
+          <mxGeometry y="280" width="780" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="zQDXgFAn6jKqQyEfSYjm-13" value="Employee Selection" style="rounded=0;whiteSpace=wrap;html=1;" parent="zQDXgFAn6jKqQyEfSYjm-3" vertex="1">
+          <mxGeometry x="30" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zQDXgFAn6jKqQyEfSYjm-20" value="Confirmation Contracts" style="rounded=0;whiteSpace=wrap;html=1;" parent="zQDXgFAn6jKqQyEfSYjm-3" vertex="1">
+          <mxGeometry x="330" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zQDXgFAn6jKqQyEfSYjm-27" value="Leave Approval" style="rounded=0;whiteSpace=wrap;html=1;" parent="zQDXgFAn6jKqQyEfSYjm-3" vertex="1">
+          <mxGeometry x="630" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zQDXgFAn6jKqQyEfSYjm-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="zQDXgFAn6jKqQyEfSYjm-1" source="zQDXgFAn6jKqQyEfSYjm-9" target="zQDXgFAn6jKqQyEfSYjm-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zQDXgFAn6jKqQyEfSYjm-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="zQDXgFAn6jKqQyEfSYjm-1" source="zQDXgFAn6jKqQyEfSYjm-11" target="zQDXgFAn6jKqQyEfSYjm-27" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zQDXgFAn6jKqQyEfSYjm-12" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="230" as="sourcePoint" />
+            <mxPoint y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zQDXgFAn6jKqQyEfSYjm-15" value="Employee Confirmation" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zQDXgFAn6jKqQyEfSYjm-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="zQDXgFAn6jKqQyEfSYjm-13" target="zQDXgFAn6jKqQyEfSYjm-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zQDXgFAn6jKqQyEfSYjm-17" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="zQDXgFAn6jKqQyEfSYjm-8" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="320" as="sourcePoint" />
+            <mxPoint x="159.5" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Payroll" id="ZAaF583kzP5An1DdNB2k">
+    <mxGraphModel dx="2036" dy="584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WSE-kBfHJZbwwqXnmW-S-0" />
+        <mxCell id="WSE-kBfHJZbwwqXnmW-S-1" parent="WSE-kBfHJZbwwqXnmW-S-0" />
+        <mxCell id="WSE-kBfHJZbwwqXnmW-S-2" value="Payroll Management" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;" parent="WSE-kBfHJZbwwqXnmW-S-1" vertex="1">
+          <mxGeometry x="-80" y="10" width="640" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="WSE-kBfHJZbwwqXnmW-S-3" value="HR User" style="swimlane;startSize=20;horizontal=0;shadow=0;sketch=0;strokeColor=#d6b656;fillColor=#fff2cc;swimlaneLine=1;labelBackgroundColor=none;labelBorderColor=none;whiteSpace=wrap;fontFamily=Times New Roman;fontStyle=1;gradientColor=#ffd966;" parent="WSE-kBfHJZbwwqXnmW-S-2" vertex="1">
+          <mxGeometry y="20" width="640" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="WSE-kBfHJZbwwqXnmW-S-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;shadow=0;sketch=0;strokeColor=#d6b656;fillColor=#fff2cc;swimlaneLine=1;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Times New Roman;fontStyle=1;gradientColor=#ffd966;" parent="WSE-kBfHJZbwwqXnmW-S-3" source="WSE-kBfHJZbwwqXnmW-S-8" target="WSE-kBfHJZbwwqXnmW-S-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WSE-kBfHJZbwwqXnmW-S-8" value="Employee Leaves Calculation" style="rounded=0;shadow=0;sketch=0;strokeColor=#d6b656;fillColor=#fff2cc;swimlaneLine=1;labelBackgroundColor=none;labelBorderColor=none;whiteSpace=wrap;fontFamily=Times New Roman;fontStyle=1;gradientColor=#ffd966;" parent="WSE-kBfHJZbwwqXnmW-S-3" vertex="1">
+          <mxGeometry x="180" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WSE-kBfHJZbwwqXnmW-S-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;shadow=0;sketch=0;strokeColor=#d6b656;fillColor=#fff2cc;swimlaneLine=1;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Times New Roman;fontStyle=1;gradientColor=#ffd966;" parent="WSE-kBfHJZbwwqXnmW-S-3" source="WSE-kBfHJZbwwqXnmW-S-10" target="WSE-kBfHJZbwwqXnmW-S-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WSE-kBfHJZbwwqXnmW-S-10" value="Employee Attendances&#xa;&amp;nbsp;Calculation" style="rounded=0;shadow=0;sketch=0;strokeColor=#d6b656;fillColor=#fff2cc;swimlaneLine=1;labelBackgroundColor=none;labelBorderColor=none;whiteSpace=wrap;fontFamily=Times New Roman;fontStyle=1;gradientColor=#ffd966;" parent="WSE-kBfHJZbwwqXnmW-S-3" vertex="1">
+          <mxGeometry x="330" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WSE-kBfHJZbwwqXnmW-S-12" value="Total Worked Days Calculation" style="rounded=0;shadow=0;sketch=0;strokeColor=#d6b656;fillColor=#fff2cc;swimlaneLine=1;labelBackgroundColor=none;labelBorderColor=none;whiteSpace=wrap;fontFamily=Times New Roman;fontStyle=1;gradientColor=#ffd966;" parent="WSE-kBfHJZbwwqXnmW-S-3" vertex="1">
+          <mxGeometry x="480" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cgcY2O7VZYaSZ4HIkwOJ-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;shadow=0;sketch=0;strokeColor=#d6b656;fillColor=#fff2cc;swimlaneLine=1;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Times New Roman;fontStyle=1;gradientColor=#ffd966;" parent="WSE-kBfHJZbwwqXnmW-S-3" source="cgcY2O7VZYaSZ4HIkwOJ-0" target="cgcY2O7VZYaSZ4HIkwOJ-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cgcY2O7VZYaSZ4HIkwOJ-0" value="Manage Employees" style="rounded=0;shadow=0;sketch=0;strokeColor=#d6b656;fillColor=#fff2cc;swimlaneLine=1;labelBackgroundColor=none;labelBorderColor=none;whiteSpace=wrap;fontFamily=Times New Roman;fontStyle=1;gradientColor=#ffd966;" parent="WSE-kBfHJZbwwqXnmW-S-3" vertex="1">
+          <mxGeometry x="30" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cgcY2O7VZYaSZ4HIkwOJ-1" value="Employee Contracts" style="rounded=0;shadow=0;sketch=0;strokeColor=#d6b656;fillColor=#fff2cc;swimlaneLine=1;labelBackgroundColor=none;labelBorderColor=none;whiteSpace=wrap;fontFamily=Times New Roman;fontStyle=1;gradientColor=#ffd966;" parent="WSE-kBfHJZbwwqXnmW-S-3" vertex="1">
+          <mxGeometry x="180" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cgcY2O7VZYaSZ4HIkwOJ-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;shadow=0;sketch=0;strokeColor=#d6b656;fillColor=#fff2cc;swimlaneLine=1;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Times New Roman;fontStyle=1;gradientColor=#ffd966;" parent="WSE-kBfHJZbwwqXnmW-S-3" source="cgcY2O7VZYaSZ4HIkwOJ-3" target="cgcY2O7VZYaSZ4HIkwOJ-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cgcY2O7VZYaSZ4HIkwOJ-3" value="Employees Salary Structure" style="rounded=0;shadow=0;sketch=0;strokeColor=#d6b656;fillColor=#fff2cc;swimlaneLine=1;labelBackgroundColor=none;labelBorderColor=none;whiteSpace=wrap;fontFamily=Times New Roman;fontStyle=1;gradientColor=#ffd966;" parent="WSE-kBfHJZbwwqXnmW-S-3" vertex="1">
+          <mxGeometry x="330" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cgcY2O7VZYaSZ4HIkwOJ-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;shadow=0;sketch=0;strokeColor=#d6b656;fillColor=#fff2cc;swimlaneLine=1;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Times New Roman;fontStyle=1;gradientColor=#ffd966;" parent="WSE-kBfHJZbwwqXnmW-S-3" source="cgcY2O7VZYaSZ4HIkwOJ-1" target="cgcY2O7VZYaSZ4HIkwOJ-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cgcY2O7VZYaSZ4HIkwOJ-5" value="Employee Contributions &amp;amp; Deductions" style="rounded=0;shadow=0;sketch=0;strokeColor=#d6b656;fillColor=#fff2cc;swimlaneLine=1;labelBackgroundColor=none;labelBorderColor=none;whiteSpace=wrap;fontFamily=Times New Roman;fontStyle=1;gradientColor=#ffd966;" parent="WSE-kBfHJZbwwqXnmW-S-3" vertex="1">
+          <mxGeometry x="480" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WSE-kBfHJZbwwqXnmW-S-14" value="Accounting User" style="swimlane;startSize=20;horizontal=0;shadow=0;sketch=0;strokeColor=#d6b656;fillColor=#fff2cc;swimlaneLine=1;labelBackgroundColor=none;labelBorderColor=none;whiteSpace=wrap;fontFamily=Times New Roman;fontStyle=1;gradientColor=#ffd966;" parent="WSE-kBfHJZbwwqXnmW-S-2" vertex="1">
+          <mxGeometry y="280" width="640" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="WSE-kBfHJZbwwqXnmW-S-15" value="Generate Payroll (Individual / Batch)" style="rounded=0;shadow=0;sketch=0;strokeColor=#d6b656;fillColor=#fff2cc;swimlaneLine=1;labelBackgroundColor=none;labelBorderColor=none;whiteSpace=wrap;fontFamily=Times New Roman;fontStyle=1;gradientColor=#ffd966;" parent="WSE-kBfHJZbwwqXnmW-S-14" vertex="1">
+          <mxGeometry x="30" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cgcY2O7VZYaSZ4HIkwOJ-14" value="Payroll Print" style="rounded=0;shadow=0;sketch=0;strokeColor=#d6b656;fillColor=#fff2cc;swimlaneLine=1;labelBackgroundColor=none;labelBorderColor=none;whiteSpace=wrap;fontFamily=Times New Roman;fontStyle=1;gradientColor=#ffd966;" parent="WSE-kBfHJZbwwqXnmW-S-14" vertex="1">
+          <mxGeometry x="330" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cgcY2O7VZYaSZ4HIkwOJ-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=0;sketch=0;strokeColor=#d6b656;fillColor=#fff2cc;swimlaneLine=1;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Times New Roman;fontStyle=1;gradientColor=#ffd966;" parent="WSE-kBfHJZbwwqXnmW-S-2" source="WSE-kBfHJZbwwqXnmW-S-12" target="WSE-kBfHJZbwwqXnmW-S-15" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="540" y="250" />
+              <mxPoint x="90" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cgcY2O7VZYaSZ4HIkwOJ-8" value="Accounting Manager" style="swimlane;startSize=20;horizontal=0;shadow=0;sketch=0;strokeColor=#d6b656;fillColor=#fff2cc;swimlaneLine=1;labelBackgroundColor=none;labelBorderColor=none;whiteSpace=wrap;fontFamily=Times New Roman;fontStyle=1;gradientColor=#ffd966;" parent="WSE-kBfHJZbwwqXnmW-S-1" vertex="1">
+          <mxGeometry x="-80" y="410" width="640" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="cgcY2O7VZYaSZ4HIkwOJ-11" value="Approve Payroll" style="rounded=0;shadow=0;sketch=0;strokeColor=#d6b656;fillColor=#fff2cc;swimlaneLine=1;labelBackgroundColor=none;labelBorderColor=none;whiteSpace=wrap;fontFamily=Times New Roman;fontStyle=1;gradientColor=#ffd966;" parent="cgcY2O7VZYaSZ4HIkwOJ-8" vertex="1">
+          <mxGeometry x="30" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cgcY2O7VZYaSZ4HIkwOJ-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;shadow=0;sketch=0;strokeColor=#d6b656;fillColor=#fff2cc;swimlaneLine=1;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Times New Roman;fontStyle=1;gradientColor=#ffd966;" parent="WSE-kBfHJZbwwqXnmW-S-1" source="WSE-kBfHJZbwwqXnmW-S-15" target="cgcY2O7VZYaSZ4HIkwOJ-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cgcY2O7VZYaSZ4HIkwOJ-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;shadow=0;sketch=0;strokeColor=#d6b656;fillColor=#fff2cc;swimlaneLine=1;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Times New Roman;fontStyle=1;gradientColor=#ffd966;" parent="WSE-kBfHJZbwwqXnmW-S-1" source="cgcY2O7VZYaSZ4HIkwOJ-11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="150" y="470" />
+              <mxPoint x="150" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="PCCRZ0u2QhnrHaYBfYi4" name="Recruitment">
+    <mxGraphModel dx="1209" dy="584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5uSA48C1ByWiy6WFp_Fv-1" value="Recruitment" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;" parent="1" vertex="1">
+          <mxGeometry x="20" y="10" width="790" height="590" as="geometry" />
+        </mxCell>
+        <mxCell id="5uSA48C1ByWiy6WFp_Fv-2" value="HR User 1" style="swimlane;startSize=20;horizontal=0;" parent="5uSA48C1ByWiy6WFp_Fv-1" vertex="1">
+          <mxGeometry y="20" width="790" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="sjANKkyq7Lge_A1Qpi-y-2" value="Manage Job Positions" style="rounded=0;whiteSpace=wrap;html=1;" parent="5uSA48C1ByWiy6WFp_Fv-2" vertex="1">
+          <mxGeometry x="40" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sjANKkyq7Lge_A1Qpi-y-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="5uSA48C1ByWiy6WFp_Fv-2" source="sjANKkyq7Lge_A1Qpi-y-7" target="sjANKkyq7Lge_A1Qpi-y-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sjANKkyq7Lge_A1Qpi-y-7" value="Manage Recruitment Survey" style="rounded=0;whiteSpace=wrap;html=1;" parent="5uSA48C1ByWiy6WFp_Fv-2" vertex="1">
+          <mxGeometry x="350" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sjANKkyq7Lge_A1Qpi-y-9" value="Schedule a Meetings" style="rounded=0;whiteSpace=wrap;html=1;" parent="5uSA48C1ByWiy6WFp_Fv-2" vertex="1">
+          <mxGeometry x="200" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sjANKkyq7Lge_A1Qpi-y-18" value="Reject the Application" style="whiteSpace=wrap;html=1;rounded=0;" parent="5uSA48C1ByWiy6WFp_Fv-2" vertex="1">
+          <mxGeometry x="510" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sjANKkyq7Lge_A1Qpi-y-20" value="Update the Log" style="whiteSpace=wrap;html=1;rounded=0;" parent="5uSA48C1ByWiy6WFp_Fv-2" vertex="1">
+          <mxGeometry x="660" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sjANKkyq7Lge_A1Qpi-y-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="5uSA48C1ByWiy6WFp_Fv-2" source="sjANKkyq7Lge_A1Qpi-y-18" target="sjANKkyq7Lge_A1Qpi-y-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5uSA48C1ByWiy6WFp_Fv-3" value="Interviewer" style="swimlane;startSize=20;horizontal=0;" parent="5uSA48C1ByWiy6WFp_Fv-1" vertex="1">
+          <mxGeometry y="250" width="790" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="sjANKkyq7Lge_A1Qpi-y-12" value="Conduct Interviews" style="rounded=0;whiteSpace=wrap;html=1;" parent="5uSA48C1ByWiy6WFp_Fv-3" vertex="1">
+          <mxGeometry x="40" y="15" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sjANKkyq7Lge_A1Qpi-y-16" value="Reject Candidate" style="whiteSpace=wrap;html=1;rounded=0;" parent="5uSA48C1ByWiy6WFp_Fv-3" vertex="1">
+          <mxGeometry x="360" y="15" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sjANKkyq7Lge_A1Qpi-y-14" value="Selected ?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="5uSA48C1ByWiy6WFp_Fv-3" vertex="1">
+          <mxGeometry x="230" y="5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sjANKkyq7Lge_A1Qpi-y-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="5uSA48C1ByWiy6WFp_Fv-3" source="sjANKkyq7Lge_A1Qpi-y-12" target="sjANKkyq7Lge_A1Qpi-y-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sjANKkyq7Lge_A1Qpi-y-17" value="NO" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="5uSA48C1ByWiy6WFp_Fv-3" source="sjANKkyq7Lge_A1Qpi-y-14" target="sjANKkyq7Lge_A1Qpi-y-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sjANKkyq7Lge_A1Qpi-y-22" value="Select Candidate" style="whiteSpace=wrap;html=1;rounded=0;" parent="5uSA48C1ByWiy6WFp_Fv-3" vertex="1">
+          <mxGeometry x="360" y="85" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sjANKkyq7Lge_A1Qpi-y-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="5uSA48C1ByWiy6WFp_Fv-3" source="sjANKkyq7Lge_A1Qpi-y-14" target="sjANKkyq7Lge_A1Qpi-y-22" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="115" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sjANKkyq7Lge_A1Qpi-y-24" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="sjANKkyq7Lge_A1Qpi-y-23" vertex="1" connectable="0">
+          <mxGeometry x="0.0722" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5uSA48C1ByWiy6WFp_Fv-4" value="HR Manager" style="swimlane;startSize=20;horizontal=0;" parent="5uSA48C1ByWiy6WFp_Fv-1" vertex="1">
+          <mxGeometry y="420" width="790" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="sjANKkyq7Lge_A1Qpi-y-25" value="Approve the Candidate" style="whiteSpace=wrap;html=1;rounded=0;" parent="5uSA48C1ByWiy6WFp_Fv-4" vertex="1">
+          <mxGeometry x="360" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sjANKkyq7Lge_A1Qpi-y-27" value="Office Letter to Candidate" style="whiteSpace=wrap;html=1;rounded=0;" parent="5uSA48C1ByWiy6WFp_Fv-4" vertex="1">
+          <mxGeometry x="360" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sjANKkyq7Lge_A1Qpi-y-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="5uSA48C1ByWiy6WFp_Fv-4" source="sjANKkyq7Lge_A1Qpi-y-25" target="sjANKkyq7Lge_A1Qpi-y-27" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sjANKkyq7Lge_A1Qpi-y-37" value="Manage Employee Appraisals" style="whiteSpace=wrap;html=1;rounded=0;" parent="5uSA48C1ByWiy6WFp_Fv-4" vertex="1">
+          <mxGeometry x="560" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sjANKkyq7Lge_A1Qpi-y-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="5uSA48C1ByWiy6WFp_Fv-1" source="sjANKkyq7Lge_A1Qpi-y-9" target="sjANKkyq7Lge_A1Qpi-y-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sjANKkyq7Lge_A1Qpi-y-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="5uSA48C1ByWiy6WFp_Fv-1" source="sjANKkyq7Lge_A1Qpi-y-16" target="sjANKkyq7Lge_A1Qpi-y-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sjANKkyq7Lge_A1Qpi-y-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="5uSA48C1ByWiy6WFp_Fv-1" source="sjANKkyq7Lge_A1Qpi-y-22" target="sjANKkyq7Lge_A1Qpi-y-25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sjANKkyq7Lge_A1Qpi-y-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="sjANKkyq7Lge_A1Qpi-y-3" target="sjANKkyq7Lge_A1Qpi-y-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sjANKkyq7Lge_A1Qpi-y-3" value="Manage Job Applications" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="220" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sjANKkyq7Lge_A1Qpi-y-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="sjANKkyq7Lge_A1Qpi-y-2" target="sjANKkyq7Lge_A1Qpi-y-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sjANKkyq7Lge_A1Qpi-y-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="sjANKkyq7Lge_A1Qpi-y-5" target="sjANKkyq7Lge_A1Qpi-y-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sjANKkyq7Lge_A1Qpi-y-5" value="Applications Document Attachments" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="370" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5uSA48C1ByWiy6WFp_Fv-5" value="HR User 2" style="swimlane;startSize=20;horizontal=0;" parent="1" vertex="1">
+          <mxGeometry x="20" y="600" width="790" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="sjANKkyq7Lge_A1Qpi-y-29" value="Convert to Employee" style="whiteSpace=wrap;html=1;rounded=0;" parent="5uSA48C1ByWiy6WFp_Fv-5" vertex="1">
+          <mxGeometry x="160" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sjANKkyq7Lge_A1Qpi-y-33" value="Manage Leave / Permission / On duty Details" style="whiteSpace=wrap;html=1;rounded=0;" parent="5uSA48C1ByWiy6WFp_Fv-5" vertex="1">
+          <mxGeometry x="360" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sjANKkyq7Lge_A1Qpi-y-39" value="Retire Employee" style="whiteSpace=wrap;html=1;rounded=0;" parent="5uSA48C1ByWiy6WFp_Fv-5" vertex="1">
+          <mxGeometry x="360" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sjANKkyq7Lge_A1Qpi-y-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="sjANKkyq7Lge_A1Qpi-y-27" target="sjANKkyq7Lge_A1Qpi-y-29" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sjANKkyq7Lge_A1Qpi-y-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="sjANKkyq7Lge_A1Qpi-y-31" target="sjANKkyq7Lge_A1Qpi-y-33" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sjANKkyq7Lge_A1Qpi-y-31" value="Manage Employee Details" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="380" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sjANKkyq7Lge_A1Qpi-y-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="sjANKkyq7Lge_A1Qpi-y-29" target="sjANKkyq7Lge_A1Qpi-y-31" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sjANKkyq7Lge_A1Qpi-y-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="sjANKkyq7Lge_A1Qpi-y-35" target="sjANKkyq7Lge_A1Qpi-y-37" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sjANKkyq7Lge_A1Qpi-y-35" value="Manage&amp;nbsp; Employee Expenses" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="580" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sjANKkyq7Lge_A1Qpi-y-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="sjANKkyq7Lge_A1Qpi-y-33" target="sjANKkyq7Lge_A1Qpi-y-35" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sjANKkyq7Lge_A1Qpi-y-41" value="Deactivate Employee&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="580" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sjANKkyq7Lge_A1Qpi-y-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="sjANKkyq7Lge_A1Qpi-y-39" target="sjANKkyq7Lge_A1Qpi-y-41" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
