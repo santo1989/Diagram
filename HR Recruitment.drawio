@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-08T07:58:33.682Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="LDTjR8Mz39js2VX2g95A" version="20.2.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-08-08T08:00:13.944Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="5Fq3yB4F-VwUAF5loVhV" version="20.2.3" type="github" pages="3">
   <diagram id="gyJNP8I5i0HolDVTTsNV" name="Recruitment">
     <mxGraphModel dx="1209" dy="584" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -302,7 +302,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LhX0Hmc9XZUdKVXlOBZj" name="Payroll">
-    <mxGraphModel dx="1609" dy="2184" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="1">
+    <mxGraphModel dx="1609" dy="2108" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -393,9 +393,6 @@
         <mxCell id="x7wru0jU_u8JPNTV_t0Q-4" value="Employee Leaves Calculation" style="rounded=1;shadow=0;sketch=0;strokeColor=#d6b656;fillColor=#fff2cc;swimlaneLine=1;labelBackgroundColor=none;labelBorderColor=none;whiteSpace=wrap;fontFamily=Times New Roman;fontStyle=1;gradientColor=#ffd966;" vertex="1" parent="x7wru0jU_u8JPNTV_t0Q-2">
           <mxGeometry x="1002" y="65" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="x7wru0jU_u8JPNTV_t0Q-7" value="Total Worked Days Calculation" style="rounded=1;shadow=0;sketch=0;strokeColor=#d6b656;fillColor=#fff2cc;swimlaneLine=1;labelBackgroundColor=none;labelBorderColor=none;whiteSpace=wrap;fontFamily=Times New Roman;fontStyle=1;gradientColor=#ffd966;" vertex="1" parent="1">
-          <mxGeometry x="1147" y="207" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="x7wru0jU_u8JPNTV_t0Q-15" value="Payroll" style="swimlane;startSize=20;horizontal=0;shadow=0;sketch=0;strokeColor=#d6b656;fillColor=#fff2cc;swimlaneLine=1;labelBackgroundColor=none;labelBorderColor=none;whiteSpace=wrap;fontFamily=Times New Roman;fontStyle=1;gradientColor=#ffd966;" vertex="1" parent="1">
           <mxGeometry x="-15" y="-921" width="1355" height="578" as="geometry" />
         </mxCell>
@@ -455,7 +452,7 @@
         <mxCell id="wmxK3yaXKTMc9kFe_-gw-18" value="Approve Payroll" style="rounded=1;shadow=0;sketch=0;strokeColor=#d6b656;fillColor=#fff2cc;swimlaneLine=1;labelBackgroundColor=none;labelBorderColor=none;whiteSpace=wrap;fontFamily=Times New Roman;fontStyle=1;gradientColor=#ffd966;" vertex="1" parent="x7wru0jU_u8JPNTV_t0Q-15">
           <mxGeometry x="348" y="376" width="115" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wmxK3yaXKTMc9kFe_-gw-20" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 12px; font-weight: 700;&quot;&gt;Payroll Print&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Verdana;fontSize=20;fontColor=#FFFFFF;strokeColor=#FF6392;fillColor=#66B2FF;" vertex="1" parent="x7wru0jU_u8JPNTV_t0Q-15">
+        <mxCell id="wmxK3yaXKTMc9kFe_-gw-20" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-weight: 700;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Payroll Print&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Verdana;fontSize=20;fontColor=#FFFFFF;strokeColor=#FF6392;fillColor=#66B2FF;" vertex="1" parent="x7wru0jU_u8JPNTV_t0Q-15">
           <mxGeometry x="345.5" y="495" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wmxK3yaXKTMc9kFe_-gw-23" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="x7wru0jU_u8JPNTV_t0Q-15">
